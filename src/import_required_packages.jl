@@ -21,6 +21,7 @@ import DataFrames
 import Dates
 import DecisionTree
 import DefaultApplication
+import DelimitedFiles
 import Distances
 import Distributions
 import Documenter
@@ -35,7 +36,6 @@ import IRTools
 import InteractiveUtils
 import IterableTables
 import JLD2
-import JuliaDB
 import Knet
 import LIBSVM
 import LaTeXStrings
@@ -52,7 +52,6 @@ import Metalhead
 import MultivariateStats
 import NNlib
 import NumericalIntegration
-import OnlineStats
 import PGFPlots
 import PGFPlotsX
 import PhysicalConstants
@@ -65,10 +64,10 @@ import RDatasets
 import ROCAnalysis
 import Random
 import RemoteFiles
-import Requires
 import Revise
 import Rmath
 import ScikitLearnBase
+import StaticArrays
 import Statistics
 import StatsBase
 import StatsModels
