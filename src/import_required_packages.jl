@@ -6,9 +6,7 @@
 import BenchmarkTools
 import Calculus
 import CategoricalArrays
-import ClassImbalance
 import Clustering
-import Combinatorics
 import Dates
 import Distances
 import Distributed
