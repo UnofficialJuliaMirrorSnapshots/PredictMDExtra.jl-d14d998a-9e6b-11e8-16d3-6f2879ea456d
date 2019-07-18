@@ -4,22 +4,22 @@
 # PredictMDExtra._print_list_of_package_imports()
 
 import BenchmarkTools
-import Calculus
 import CategoricalArrays
 import Clustering
+import Compose
 import Dates
 import Distances
 import Distributed
-import GaussianProcesses
+import Gadfly
 import IRTools
 import MLDatasets
 import MLJ
 import MLJBase
 import MLJModels
-import Measurements
+import Makie
 import MemPool
 import MultivariateStats
-import PhysicalConstants
+import PackageCompiler
 import Pkg
 import RemoteFiles
 import Rmath
