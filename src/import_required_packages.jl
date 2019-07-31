@@ -13,7 +13,6 @@ import Distances
 import Distributed
 import Gadfly
 import IRTools
-import MLDatasets
 import MLJ
 import MLJBase
 import MLJModels
@@ -24,7 +23,6 @@ import PackageCompiler
 import Pkg
 import RemoteFiles
 import Rmath
-import ScikitLearnBase
 import StaticArrays
 import Tables
 import Tau
